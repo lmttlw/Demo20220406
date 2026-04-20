@@ -1,0 +1,22 @@
+﻿# VS 缓存
+.vs/
+*.user
+*.suo
+*.signature.p7s
+
+# 编译垃圾
+bin/
+obj/
+Debug/
+Release/
+*.pdb
+*.log
+
+# 包/依赖
+packages/
+node_modules/
+dist/
+
+# 协议/说明（可选）
+License.md
+README.md

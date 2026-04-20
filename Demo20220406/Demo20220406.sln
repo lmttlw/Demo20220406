@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net Ease Cloud Form API", "Net Ease Cloud Form API\Net Ease Cloud Form API.csproj", "{646F9D06-E509-4F00-AFD3-AB4BC3E3CC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net Ease Cloud Model", "Net Ease Cloud Model\Net Ease Cloud Model.csproj", "{37996C67-73C1-47C7-8092-DB86CBF07BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pic_API_Model", "Pic_API_Model\Pic_API_Model.csproj", "{C99B3650-3515-417C-9BB9-27E6203E7578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646F9D06-E509-4F00-AFD3-AB4BC3E3CC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646F9D06-E509-4F00-AFD3-AB4BC3E3CC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646F9D06-E509-4F00-AFD3-AB4BC3E3CC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646F9D06-E509-4F00-AFD3-AB4BC3E3CC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37996C67-73C1-47C7-8092-DB86CBF07BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37996C67-73C1-47C7-8092-DB86CBF07BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37996C67-73C1-47C7-8092-DB86CBF07BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37996C67-73C1-47C7-8092-DB86CBF07BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99B3650-3515-417C-9BB9-27E6203E7578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99B3650-3515-417C-9BB9-27E6203E7578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99B3650-3515-417C-9BB9-27E6203E7578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99B3650-3515-417C-9BB9-27E6203E7578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A79CA36-6EBA-41CB-91DB-78E343D3A4DF}
+	EndGlobalSection
+EndGlobal
