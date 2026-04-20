@@ -4,4 +4,4 @@ https://netease-cloud-music-api-lmttlw.vercel.app
 PS：
 https://netease-cloud-music-api-lmttlw.vercel.app/login/cellphone?phone=15573313867&password=lw02082001&timestamp=1649379896
 
-登录以及添加到“我喜歡”請求多次有bug暫未解決
+登录以及添加到“我喜歡”請求多次有bug暫未解決。
